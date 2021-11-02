@@ -1,0 +1,3 @@
+- 👋 Salut, je suis @Santana13015
+- 👀 Je suis intéressé pars le dévellopement 
+- 🌱 J'apprends actuellement encore le .lua
